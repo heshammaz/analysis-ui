@@ -37,12 +37,12 @@ exports[`Component > Modification > ModificationsList renders correctly 1`] = `
         className="fa fa-chevron-down fa-fw " />
       <span>
          
-        Add trip pattern
+        Add trips
       </span>
       <a
         className="pull-right"
         onClick={[Function]}
-        title="Create add-trip-pattern">
+        title="Create Add trips">
         <i
           className="fa fa-plus fa-fw " />
          Create
@@ -71,7 +71,7 @@ exports[`Component > Modification > ModificationsList renders correctly 1`] = `
       <a
         className="pull-right"
         onClick={[Function]}
-        title="Create adjust-dwell-time">
+        title="Create Adjust dwell time">
         <i
           className="fa fa-plus fa-fw " />
          Create
@@ -100,7 +100,7 @@ exports[`Component > Modification > ModificationsList renders correctly 1`] = `
       <a
         className="pull-right"
         onClick={[Function]}
-        title="Create adjust-speed">
+        title="Create Adjust speed">
         <i
           className="fa fa-plus fa-fw " />
          Create
@@ -124,12 +124,12 @@ exports[`Component > Modification > ModificationsList renders correctly 1`] = `
         className="fa fa-chevron-down fa-fw " />
       <span>
          
-        Convert to frequency
+        Adjust frequency
       </span>
       <a
         className="pull-right"
         onClick={[Function]}
-        title="Create convert-to-frequency">
+        title="Create Adjust frequency">
         <i
           className="fa fa-plus fa-fw " />
          Create
@@ -158,7 +158,7 @@ exports[`Component > Modification > ModificationsList renders correctly 1`] = `
       <a
         className="pull-right"
         onClick={[Function]}
-        title="Create remove-stops">
+        title="Create Remove stops">
         <i
           className="fa fa-plus fa-fw " />
          Create
@@ -187,7 +187,7 @@ exports[`Component > Modification > ModificationsList renders correctly 1`] = `
       <a
         className="pull-right"
         onClick={[Function]}
-        title="Create remove-trips">
+        title="Create Remove trips">
         <i
           className="fa fa-plus fa-fw " />
          Create
@@ -216,7 +216,7 @@ exports[`Component > Modification > ModificationsList renders correctly 1`] = `
       <a
         className="pull-right"
         onClick={[Function]}
-        title="Create reroute">
+        title="Create Reroute">
         <i
           className="fa fa-plus fa-fw " />
          Create

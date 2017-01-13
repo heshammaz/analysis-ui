@@ -9,12 +9,12 @@ exports[`Component > Modification > ModificationGroup renders correctly 1`] = `
       className="fa fa-chevron-down fa-fw " />
     <span>
        
-      Test
+      Add trips
     </span>
     <a
       className="pull-right"
       onClick={[Function]}
-      title="Create test">
+      title="Create Add trips">
       <i
         className="fa fa-plus fa-fw " />
        Create
