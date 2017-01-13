@@ -59,13 +59,13 @@ The next field is the number of simulated schedules. When there are lines that h
 than full schedules, this controls the number of random schedules that are generated. Results will be
 more accurate when it is set higher, at the cost of speed. For quick, interactive analysis, we
 recommend setting it to 200, whereas, for final analysis, we recommend setting it to 1000. For more on this,
-see [methodology](/analysis/methodology).
+see [methodology](methodology).
 
 Below the analysis settings pane is a dropdown to choose a category of opportunities to measure accessibility to.
 For example, you might be interested in access to jobs, or access to schools, or some other variable of
 interest. In the US, these categories will be automatically populated from the US Census [LODES](https://lehd.ces.census.gov/data/#lodes)
 dataset. If you are outside the US, or if you want to use data that isn't included in LODES, you can
-[upload alternate data](/analysis/upload-opportunity-data). The opportunities from the selected category
+[upload alternate data](upload-opportunity-data). The opportunities from the selected category
 will be displayed on the map as dots.
 
 # Performing a comparison
@@ -108,7 +108,7 @@ is on the Y axis. There is not a single line showing the number of opportunities
 but rather a field. The number of opportunities accessible within a given travel time budget is not constant,
 but varies due to differing amounts of waiting depending on departure time (within the specified time window),
 and due to uncertainty introduced by routes that have only headways rather than complete schedules
-(see [Methodology](/analysis/methodology)).
+(see [Methodology](methodology)).
 
 The width of the shaded area indicates the variability in the number of opportunities that can be accessed.
 Where it is wide, the transit service is relatively unreliable; depending on when you leave the
@@ -212,4 +212,4 @@ for all of the number-crunching to occur.
 </figure>
 
 Once a regional analysis is complete, it can be viewed by clicking the right arrow next to its name,
-which will take you to the [regional analysis view](/analysis/regional).
+which will take you to the [regional analysis view](regional).
