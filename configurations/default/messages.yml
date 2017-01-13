@@ -3,6 +3,7 @@ common:
   variant: Variant
   uploading: Uploading...
   uploadProgress: Uploading (%d%%)...
+  processing: Processing
 authentication:
   logIn: Log in
   logOut: Log out
@@ -67,6 +68,8 @@ modificationType:
 analysis:
   accessibility: %(name)s: %(number)s %(indicator)s within %(cutoff)d minutes
   createGrid: Create a new grid
+  processingGridFeatures: Processing grid features (%s of %s complete)
+  gridProcessingFailed: Grid processing failed
   indicator: Indicator
   cutoff: Travel time cutoff (minutes)
   addGrid: Add grid
